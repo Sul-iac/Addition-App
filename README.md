@@ -15,7 +15,7 @@ It all could have been avoided if you had an app that made splitting the bill ea
 
 
 
-## what the app does:
+## What the app does:
 
 This app aims to solve that problem with ease:
 
