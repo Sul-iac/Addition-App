@@ -11,8 +11,10 @@ The bill arrives.
 Tension rises.  
 
 The ticket seems longer than ever as the waiter brings it to your table.  
-You can feel it in the air: you'll be the one to pay because no one else dares to say, "Hey guys, let's split the bill, shall we?"  
+You can feel it in the air: you'll be the one to pay because no one else dares to say, **"Hey guys, let's split the bill, shall we?"**  
+
 Just as you pull out your card, the payment machine declines the transaction.  
+
 Now your friends have to cover the cost. Frustrated with the situation, they turn on you.  
 Your girlfriend admits she’s always loved your best friend, and your mother (who was somehow at the table too) reveals that you’re adopted.
 
