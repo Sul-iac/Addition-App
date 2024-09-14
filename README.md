@@ -19,6 +19,7 @@ You can feel it in the air: you'll be the one to pay because no one else dares t
 Just as you pull out your card, the payment machine declines the transaction.  
 
 Now your friends have to cover the cost. Frustrated with the situation, they turn on you.  
+
 Your girlfriend admits she’s always loved your best friend, and your mother (who was somehow at the table too) reveals that you’re adopted.
 
 It all could have been avoided if you had an app that made splitting the bill easy, right?
