@@ -1,6 +1,8 @@
 # The Bill, Please
 
-This app is an open-source project made for the purpose of training and learning how Android applications work.
+This app is an open-source project made for the purpose of training and learning how Android applications work.  
+
+This is only the beginning of the project, not much has been done yet.
 
 # Have you ever been in a pub?
 
